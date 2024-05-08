@@ -1,5 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## DEVELOPED BY: NISHA.D
+
+## DEVELOPED BY:NISHA.D
+
 ## REG NO: 212223230143
 ## AIM:
 To Implementation of Classical Planning Algorithm
